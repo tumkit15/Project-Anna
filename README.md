@@ -3,10 +3,12 @@ _Anna is written in Python 3 and uses Google's speech to text API. Anna can resp
 instruction, search content on Wikipedia but its major power comes from the Wolfram alpha API which 
 makes it powerful enough to answer questions like “what is the meaning of life” which apparently is 42._
 
-## PreRequisits:- 
-
+## Setup:- 
+ pip install speech_recognition as sr
+ pip install time
+ pip install gtts 
+ pip install wikipedia
+ pip install wolframalpha
 
 ### Usage :- 
-*
-python3 annna.sh
-*
+**./annna.sh**
