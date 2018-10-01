@@ -4,7 +4,7 @@ instruction, search content on Wikipedia but its major power comes from the Wolf
 makes it powerful enough to answer questions like “what is the meaning of life” which apparently is 42._
 
 ## Setup:- 
- pip install speech_recognition as sr                 
+ pip install speech_recognition                 
  pip install time                 
  pip install gtts                     
  pip install wikipedia                         
